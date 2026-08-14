@@ -1,0 +1,5 @@
+omnivoice
+soundfile
+gradio
+spaces
+torch
